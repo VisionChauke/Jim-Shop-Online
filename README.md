@@ -1,0 +1,1 @@
+This Is A full-stack jim online shop application for people wanting to buy products online, Tech stack (e.g., Bootstrap/HTML/CSS/JS, PHP, Node.js, etc.) Features (e.g., login, job listing, application tracking)
